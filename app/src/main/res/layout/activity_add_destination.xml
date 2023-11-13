@@ -28,7 +28,7 @@
         android:layout_marginStart="10dp"
         android:layout_marginTop="50dp"
         android:layout_marginEnd="10dp"
-        android:hint="Enter Destination"
+        android:hint="Enter Phone"
         android:inputType="text" />
 
 
@@ -40,7 +40,7 @@
         android:layout_marginStart="10dp"
         android:layout_marginTop="50dp"
         android:layout_marginEnd="10dp"
-        android:hint="Enter Phone"
+        android:hint="Enter Destination details"
         android:inputType="text" />
 
     <androidx.cardview.widget.CardView
